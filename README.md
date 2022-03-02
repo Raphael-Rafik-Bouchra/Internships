@@ -43,11 +43,11 @@ Star and Watch the repo and pull new changes regularly.
 |[Brightskies](https://brightskiesinc.com/) | Alexandria | Not Yet |
 |[Blink22](https://blink22.com/) | Alexandria | Not Yet |
 |[Webalo](https://www.webalo.com/index.php) | Alexandria | Not Yet |
-|[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - Requires 3rd year computer science engineering students |
+|[Inova](https://inovaeg.com/internship/qa-internship/) | Alexandria | Open - Requires 3rd year computer science engineering students |  :heavy_check_mark: |
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/) | Alexandria | Not Yet |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
-|[Innuva](http://www.innuva.com/) | Alexandria | Not Yet | :heavy_check_mark: |
+|[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Not Yet |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 
