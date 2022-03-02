@@ -47,7 +47,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Novomind Poet](https://www.novomind.com/en/) | Alexandria | Not Yet |
 |[Espace](https://espace.com.eg/) | Alexandria | Not Yet |
 |[Smartera](https://www.smartera3s.com/) | Alexandria | Not Yet |
-|[Innuva](http://www.innuva.com/) | Alexandria | Not Yet |
+|[Innuva](http://www.innuva.com/) | Alexandria | Not Yet | :heavy_check_mark: |
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Not Yet |
 |[Enozom](https://www.enozom.com/) | Alexandria | Not Yet |
 
